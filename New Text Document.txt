@@ -1,0 +1,19 @@
+config
+
+git init
+
+git add index
+
+git commit -m "Add File" 
+
+git status
+
+git log
+
+
+
+
+
+
+
+68e5e572f8933a00ccbd8088317b5e0c3e1a716d
